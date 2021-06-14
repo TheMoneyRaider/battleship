@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Battleship1D
+comment1.params=
+comment1.target=Battleship1D()
+comment10.params=i
+comment10.target=void\ removeShip(int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=target\ button
+comment3.target=boolean\ guess(int,\ int)
+comment4.params=a\ place
+comment4.target=void\ setShip(Battleship,\ int)
+comment5.params=a\ place
+comment5.target=void\ setShipRan(Battleship,\ int)
+comment6.params=
+comment6.target=int\ getSeaSize()
+comment7.params=i
+comment7.target=Battleship\ getShip(int)
+comment8.params=
+comment8.target=java.util.ArrayList\ getSea()
+comment9.params=j
+comment9.target=boolean\ checkLife(int)
+numComments=11

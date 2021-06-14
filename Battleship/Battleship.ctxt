@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Battleship
+comment1.params=l
+comment1.target=Battleship(int)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=place
+comment3.target=void\ setPos(int)
+comment4.params=size
+comment4.target=void\ setPosRan(int)
+comment5.params=i\ b
+comment5.target=void\ setNPos(int,\ int)
+comment6.params=i
+comment6.target=int\ getPos(int)
+comment7.params=
+comment7.target=boolean\ getLife()
+comment8.params=
+comment8.target=void\ die()
+comment9.params=
+comment9.target=int[]\ getSegs()
+numComments=10
